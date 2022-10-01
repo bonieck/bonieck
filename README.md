@@ -4,7 +4,7 @@
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonieck&theme=dracula&show_icons=true"/>
   
-  <img height="180em" widht="456em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonieck&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" widht="456em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonieck&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
