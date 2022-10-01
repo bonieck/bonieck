@@ -1,4 +1,4 @@
-### ## Olá! Eu sou a Bonieck Douglas, Analista de Suporte e Aprendiz de Programação.👋
+### ## Olá! Eu sou a Bonieck Douglas, Analista de Suporte e Padawan em Programação.👋
 
 <div align="center">
   <a href="https://github.com/bonieck">
