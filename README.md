@@ -5,10 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonieck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonieck&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<!--
 - 👨‍💻 I’m currently working on Support Analyst.
 - 🧑‍💻 I’m currently learning HTML5, CSS3 and JavaScript
-<!--
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
