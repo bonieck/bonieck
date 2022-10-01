@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Support Analyst.
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+- 👨‍💻 I’m currently working on Support Analyst.
+- 🧑‍💻 I’m currently learning HTML5, CSS3 and JavaScript
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
