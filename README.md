@@ -2,9 +2,9 @@
 <div align="center">
   <a href="https://github.com/bonieck/"></a>
  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bonieck&theme=dracula&show_icons=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=bonieck&theme=dracula&show_icons=true"/>
 
-  <img height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonieck&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonieck&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
